@@ -60,7 +60,7 @@ Built for privacy enthusiasts: **Zero cloud dependency. Zero data leakage. Power
 
 ## 🗺️ Roadmap & Cross-Platform Support
 
-- [x] Linux-native release & Nginx download tracking
+- [x] Linux-native release
 - [ ] Windows & macOS cross-compilation via GitHub Actions
 - [ ] Expanded embedding and semantic vector search options
 
